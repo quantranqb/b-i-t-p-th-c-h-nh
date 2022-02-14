@@ -1,0 +1,15 @@
+.class {
+    color: fuchsia;
+    font-size: 50px;
+}
+.box {
+    background: rgb(172, 231, 9);
+    width: 100vw;
+    height: 10vh;
+}
+:root {
+    --zero-color: red;
+}
+ol {
+    color: var(--zero-color);
+}
